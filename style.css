@@ -108,8 +108,10 @@
 }
 
 .small-hero{
-    width: 250px;
+    background-image: url(./media/small-hero.png);
+    background-size: cover;
+    width: 205px;
     height: 350px;
-    background-color: #fff6f6;
-    display: flex;
+    /*background-color: #fff6f6;*/
+    
 }

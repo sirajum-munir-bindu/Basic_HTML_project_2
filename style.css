@@ -102,6 +102,7 @@
 
 .background_image{
     background-image: url(./media/Daraz_back_image.png);
+    /*background-image: url(./media/Daraz_cover_p2.webp);*/
     background-size: cover;
     height: 350px;
     width: 990px;
@@ -112,6 +113,36 @@
     background-size: cover;
     width: 205px;
     height: 350px;
-    /*background-color: #fff6f6;*/
-    
+}
+
+/***  Shop section  ***/
+
+.shop-section{
+    height: 2100px;
+    background-color: rgb(231, 231, 231);
+}
+
+.header_template_1{
+    padding-top: 25px;
+    padding-left: 18.5%;
+    padding-bottom: 5px;
+    color:rgb(59, 58, 58);
+}
+
+.template_1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.shop_template_1{
+    height: 380px;
+    width: 1200px;
+    background-color: white;
+}
+
+.box_1{
+    height: 60px;
+    padding-top: 10px;
+    display: flex;
 }

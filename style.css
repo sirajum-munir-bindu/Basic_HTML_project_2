@@ -258,18 +258,3 @@
     width: 190px;
 
 }
-
-/***  Tempate 2 ***/
-
-.header_template_2{
-    padding-top: 25px;
-    padding-left: 18.5%;
-    padding-bottom: 5px;
-    color:rgb(59, 58, 58);
-}
-.template_2{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-

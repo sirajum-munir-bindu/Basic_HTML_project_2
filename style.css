@@ -256,5 +256,71 @@
     background-size: cover;
     height: 190px;
     width: 190px;
+}
 
+/* shop section 2 */
+
+.heder_template_2{
+    padding-top: 25px;
+    padding-left: 18.5%;
+    padding-bottom: 5px;
+    color:rgb(59, 58, 58);
+}
+
+.for_design_shop_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shop_box1{
+    height: 295px;
+    width: 1200px;
+    background-color: rgb(231, 231, 231);
+}
+.shop_box_new{
+    height: 295px;
+    width: 800px;
+    background-color: rgb(231, 231, 231);
+}
+.for_flex_box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.shop_product_1{
+    height: 290px;
+    width: 190px;
+    background-color: white;
+}
+.shop_product_image_1{
+    background-size: cover;
+    height: 190px;
+    width: 190px;
+}
+.p_co2:hover{
+    border: 2px solid black;
+}
+
+.text1{
+    height: 36px;
+    width: 173px;
+    font-size: 0.9rem;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+.prize_flex{
+    display: flex;
+}
+.prize1 i{
+    font-size: 10px;
+}
+.prize1{
+    color: rgb(255, 94, 0);
+    padding-left: 10px;
+}
+.discunt{
+    color:rgb(148, 148, 148);
+    padding-left: 5px;
+    font-size: 0.75rem;
 }
